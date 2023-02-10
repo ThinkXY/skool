@@ -13,6 +13,7 @@
 * https://mathwizard.pages.dev/
 * https://mathhomework.netlify.app/
 * https://skool-world.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+* https://thinkxy.github.io/skool
 
 Fork this repo to deploy your own unblocked version.
 
